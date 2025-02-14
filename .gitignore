@@ -1,0 +1,29 @@
+# Backend
+backend/target/
+backend/.idea/
+backend/*.iml
+backend/.settings/
+backend/.project
+backend/.classpath
+
+# Frontend
+frontend/photo-management-ui/node_modules/
+frontend/photo-management-ui/dist/
+frontend/photo-management-ui/.env.local
+frontend/photo-management-ui/.env.*.local
+frontend/photo-management-ui/npm-debug.log*
+frontend/photo-management-ui/yarn-debug.log*
+frontend/photo-management-ui/yarn-error.log*
+
+# IDE
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS
+.DS_Store
+Thumbs.db 
